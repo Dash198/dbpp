@@ -5,7 +5,7 @@ using namespace std;
 class Fighters
 {
 public:
-	vector<Stats> obv;
+	vector<Stats> fighter;
 	void initialize();
 	Fighters();
 };

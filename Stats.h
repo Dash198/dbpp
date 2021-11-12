@@ -5,10 +5,13 @@ using namespace std;
 class Stats
 {
 public:
-	int hp;
+	double hp;
 	string name;
 	vector<string> moves;
-	vector<int> moved;
+	vector<double> moved;
+	int energy;
+	vector<int> energycost;
+	vector<string> movedesc;
 	Stats();
 };
 

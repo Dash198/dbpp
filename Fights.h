@@ -3,6 +3,6 @@
 class Fights
 {
 public:
-	void ovof(Stats a, Stats b);
+	void ovof(Stats user, Stats opp);
 };
 

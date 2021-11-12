@@ -3,14 +3,15 @@
 #include <vector>
 using namespace std;
 string name;
-int hp;
+double hp;
 vector<string> moves;
-vector<int> moved;
+vector<double> moved;
 
 Stats::Stats()
 {
 	name = "";
 	hp = 100;
+	energy = 100;
 	moves.resize(4);
 	moved.resize(4);
 }
