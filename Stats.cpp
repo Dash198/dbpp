@@ -9,6 +9,8 @@ vector<double> moved;
 
 Stats::Stats()
 {
+	attack = 0;
+	defense = 0;
 	name = "";
 	hp = 100;
 	energy = 100;

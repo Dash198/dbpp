@@ -12,6 +12,8 @@ public:
 	int energy;
 	vector<int> energycost;
 	vector<string> movedesc;
+	vector<double> accuracy;
+	double attack, defense, speed;
 	Stats();
 };
 

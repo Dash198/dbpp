@@ -4,10 +4,12 @@
 #include <iostream>
 #include <vector>
 #include<string>
+#include<stdlib.h>
+#include<conio.h>
 using namespace std;
 void Fights::ovof(Stats user, Stats opp)
 {
-	int u, o;
+	double u, o, hitmiss, acc, acc1, cont;
 	while (true) {
 		cout << "\n=============== HP ===============\n\n"<<user.name<<"'s HP : " << user.hp << "/100\t"<<opp.name<<"'s HP : " << opp.hp << " / 100\n" << user.name << "'s Ki: " << user.energy << "/100\t" << opp.name << "'s Ki : " << opp.energy << " / 100\n\n";
 		if (user.hp == 0 || opp.hp == 0)
@@ -22,12 +24,20 @@ void Fights::ovof(Stats user, Stats opp)
 			continue;
 		}
 		u--;
+		srand(time(NULL));
+		hitmiss = 1 + (rand() % 100);
+		acc = user.accuracy[u];
+		acc -= opp.speed;
 		if (user.energy < user.energycost[u]) {
 			cout << user.name << " doesn't have enough ki to use " << user.moves[u]<<"!\n\n";
 		}
+		else if (hitmiss > acc) {
+			cout << user.name << "'s attack missed!\n\n";
+			user.energy -= user.energycost[u];
+		}
 		else {
 			cout << "\n\n" << user.name << " used " << user.moves[u] << "!\n\n";
-			opp.hp -= user.moved[u];
+			opp.hp = opp.hp - ((user.moved[u] + (user.moved[u] * (user.attack / 100.0))) - (user.moved[u] * (opp.defense / 100.0)));
 			user.energy -= user.energycost[u];
 			if (user.hp <= 0 || opp.hp <= 0) {
 				if (user.hp <= 0)
@@ -42,12 +52,19 @@ void Fights::ovof(Stats user, Stats opp)
 			break;
 		srand(time(NULL));
 		o = (rand() % 3);
+		hitmiss = 1 + (rand() % 100);
+		acc1 = opp.accuracy[o];
+		acc1 -= user.speed;
 		if (opp.energy < opp.energycost[o]) {
 			cout << opp.name << " tried to use " << opp.moves[o] << ", but doesn't have enough ki to use it!\n\n";
 		}
+		else if (hitmiss > acc1) {
+			cout << opp.name << "'s attack missed!\n\n";
+			opp.energy -= opp.energycost[o];
+		}
 		else {
 			cout << "\n" << opp.name << " used " << opp.moves[o] << "!\n\n";
-			user.hp -= opp.moved[o];
+			user.hp = user.hp - ((opp.moved[o] + (opp.moved[o] * (opp.attack / 100.0))) - (opp.moved[o] * (user.defense / 100.0)));
 			opp.energy -= opp.energycost[o];
 			if (user.hp <= 0 || opp.hp <= 0) {
 				if (user.hp <= 0)
