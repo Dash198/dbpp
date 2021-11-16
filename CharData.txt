@@ -1,0 +1,77 @@
+Goku
+150
+Kamehameha
+A powerful ki blast fired with two hands after concentrating a large amount of ki.
+20
+25
+90
+Kaioken Attack
+A powerful series of meelee attacks powered up by the Kaioken technique.
+25
+30
+80
+Ki Blast
+A simple Ki blast
+5
+15
+100
+Spirit Bomb
+Goku's strongest move, an energy ball made up of the ki of all sources of life around him
+40
+50
+75
+5
+2
+5
+
+Vegeta
+130
+Big Bang Attack
+A high-power energy ball, fired at great speed towards the opponent
+25
+30
+80
+Final Flash
+Charge ki at both of your hands, combine them together to form a high-damage energy beam
+40
+50
+75
+Galick Gun
+An energy beam similar to the Kamehameha
+10
+20
+90
+Energy Blast Volley
+Fire a barrage of ki blasts at the opponent
+5
+15
+100
+2
+5
+3
+
+Gohan
+200
+Gekiretsu Madan
+Charge ki at both hands, and combine them to fire a barrage of energy waves at the opponent
+5
+15
+100
+Masenko
+Fire a powerful beam of energy
+10
+20
+90
+Kamehameha
+A powerful ki blast fired with two hands after concentrating a large amount of ki.
+20
+25
+80
+Father-Son Kamehameha
+A double Kamehameha, Gohan combines his Kamehameha with Goku's, resulting in double the damage
+40
+50
+75
+3
+3
+3

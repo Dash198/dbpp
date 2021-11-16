@@ -19,15 +19,19 @@ int main()
     cin >> choice;
     while (choice == 'y') {
         cout << "\n\n====== CHOOSE YOUR FIGHTER ======\n\nEnter the corresponding number to make your choice\n";
-        for (int i = 0; i < ft.fighter.size(); i++)
+        for (int i = 0; i < ft.fighter.size(); i++) {
             cout << i + 1 << ". " << ft.fighter[i].name << "\n";
-        cout << "\n";
+        }
         cin >> userchoice;
         userchoice--;
+        if (userchoice >= ft.fighter.size()) {
+            cout << "Enter a valid number!";
+            continue;
+        }
         cout << "\n\n====== CHOOSE YOUR OPPONENT ======\n\nEnter the corresponding number to make your choice\n";
-        for (int i = 0; i < ft.fighter.size(); i++)
+        for (int i = 0; i < ft.fighter.size(); i++) {
             cout << i + 1 << ". " << ft.fighter[i].name << "\n";
-        cout << "\n";
+        }
         cin >> oppchoice;
         oppchoice--;
         fight.ovof(ft.fighter[userchoice],ft.fighter[oppchoice]);

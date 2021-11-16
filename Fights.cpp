@@ -11,12 +11,12 @@ void Fights::ovof(Stats user, Stats opp)
 {
 	double u, o, hitmiss, acc, acc1, cont;
 	while (true) {
-		cout << "\n=============== HP ===============\n\n"<<user.name<<"'s HP : " << user.hp << "/100\t"<<opp.name<<"'s HP : " << opp.hp << " / 100\n" << user.name << "'s Ki: " << user.energy << "/100\t" << opp.name << "'s Ki : " << opp.energy << " / 100\n\n";
+		cout << "\n=============== HP ===============\n\n"<<user.name<<"'s HP : " << user.hp << " / "<<user.thp<<"\t"<<opp.name<<"'s HP : " << opp.hp << " / "<<opp.thp<<"\n" << user.name << "'s Ki : " << user.energy << " / 100\t" << opp.name << "'s Ki : " << opp.energy << " / 100\n\n";
 		if (user.hp == 0 || opp.hp == 0)
 			break;
 		cout << "===== CHOOSE YOUR MOVE ===== \n\nEnter the number next to the move to make your choice\n\n";
 		for (int i = 0; i < 4; i++) 
-			cout << i + 1 << ". " << user.moves[i]<<" - "<<user.movedesc[i]<<"\n";
+			cout << i + 1 << ". " << user.moves[i]<<" - "<<user.movedesc[i]<<"\n\n";
 		cout << "\n";
 		cin >> u;
 		if (u > 4 || u < 1) {
@@ -46,7 +46,7 @@ void Fights::ovof(Stats user, Stats opp)
 					opp.hp = 0;
 			}
 		}
-		cout << "=============== HP ===============\n\n" << user.name << "'s HP : " << user.hp << "/100\t" << opp.name << "'s HP : " << opp.hp << " / 100\n";
+		cout << "=============== HP ===============\n\n" << user.name << "'s HP : " << user.hp << " / "<<user.thp<<"\t" << opp.name << "'s HP : " << opp.hp << " / "<<opp.thp<<"\n";
 		cout<< user.name << "'s Ki: " << user.energy << "/100\t" << opp.name << "'s Ki : " << opp.energy << " / 100\n\n"<<"===================================\n\n";
 		if (user.hp == 0 || opp.hp == 0)
 			break;

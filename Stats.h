@@ -5,7 +5,7 @@ using namespace std;
 class Stats
 {
 public:
-	double hp;
+	double hp, thp;
 	string name;
 	vector<string> moves;
 	vector<double> moved;
