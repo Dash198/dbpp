@@ -1,0 +1,259 @@
+Goku
+170
+Kamehameha
+A powerful ki beam fired with two hands after concentrating a large amount of ki.
+20
+25
+90
+Kaioken Attack
+A powerful series of meelee attacks powered up by the Kaioken technique.
+25
+30
+80
+Ki Blast
+A simple Ki blast
+5
+15
+100
+Spirit Bomb
+Goku's strongest move, an energy ball made up of the ki of all sources of life around him
+40
+50
+75
+5
+2
+5
+
+Vegeta
+150
+Big Bang Attack
+A high-power energy ball, fired at great speed towards the opponent
+25
+30
+80
+Final Flash
+Charge ki at both of your hands, combine them together to form a high-damage energy beam
+40
+50
+75
+Galick Gun
+An energy beam similar to the Kamehameha
+10
+20
+90
+Full Power Energy Blast Volley
+Fire a barrage of ki blasts at the opponent
+5
+15
+100
+2
+5
+3
+
+Gohan
+200
+Gekiretsu Madan
+Charge ki at both hands, and combine them to fire a barrage of energy waves at the opponent
+5
+15
+100
+Masenko
+Fire a powerful beam of energy
+10
+20
+90
+Kamehameha
+A powerful ki beam fired with two hands after concentrating a large amount of ki.
+20
+25
+80
+Father-Son Kamehameha
+A double Kamehameha, Gohan combines his Kamehameha with Goku's, resulting in double the damage
+40
+50
+75
+5
+3
+3
+
+Future Trunks
+175
+Buster Canon
+Charge up an energy sphere in each hand, and combine them to fire an energy wave at the opponent
+20
+25
+90
+Gekiretsu Madan
+Charge ki at both hands, and combine them to fire a barrage of energy waves at the opponent
+5
+15
+100
+Burning Attack
+With a flurry of rapid arm movements, hit the opponent with a large energy sphere
+30
+30
+80
+Shining Sword Attack
+Damage your opponent heavily with multiple sword slashes, then finish them off with a blast
+50
+40
+80
+4
+5
+3
+
+Kid Trunks
+100
+Double Buster
+Fire an energy wave of charged ki at the opponent with both hands
+20
+25
+80
+Big Tree Canon
+Charge ki spheres on both hands, and fire a large energy wave at the opponent
+30
+30
+80
+Energy Burst
+Fire a series of rapid energy blasts at your opponent
+10
+15
+100
+Friend Kamehameha
+Fire a Kamehameha with Goten at the same time
+15
+20
+90
+4
+3
+3
+
+Goten
+95
+Kamekameha
+A weaker, less accurate verison of the Kamehameha
+25
+25
+80
+Full Power Energy Blast Volley
+Fire a barrage of ki blasts at the opponent
+10
+15
+90
+Bro's Kamehameha
+Goten and his brother Gohan perform a double Kamehameha
+40
+40
+80
+Ki Blast
+A simple ki blast
+5
+10
+100
+5
+3
+4
+
+Piccolo
+205
+Makankosappo
+Charge up ki, and fire two powerful spiralling ki waves at the opponent
+60
+60
+75
+Hellzone Grenade
+Fire multiple energy spheres towards the opponent, and finally command them to rain down the opponent, causing a lot of damage
+40
+50
+80
+Masenko
+Fire a powerful beam of energy
+10
+15
+100
+Explosive Demon Wave
+Fire an energy wave shot from a single hand
+20
+20
+90
+5
+4
+4
+
+Krillin
+130
+Destructo Disk
+A razor-sharp ki disc that can cut through almost anything
+30
+30
+80
+Kamehameha
+A powerful ki beam fired with two hands after concentrating a large amount of ki.
+20
+20
+100
+Scattering Bullet
+Fire a large blast into the air, which scatters into several smaller blasts advancing towards the opponent
+25
+25
+90
+Chain Destructo Disc Barrage
+Throw multiple Destructo Discs in quick succession
+45
+50
+75
+1
+3
+4
+
+Tien Shinhan
+110
+Tri-Beam
+Fire a large beam from your hands
+25
+25
+90
+Dodonpa
+Fire a beam from a single finger
+20
+20
+100
+Neo Tri-Beam
+A significantly stronger version of the Tri-Beam
+40
+50
+80
+Mafuba
+A technique designed to seal demons into a jar. Deal a huge amount of damage, but drains all energy, and is a hit-or-miss attack
+100
+100
+50
+5
+4
+4
+
+Chiaotzu
+100
+Dodonpa
+Fire a beam from a single finger
+20
+20
+100
+Telekinesis
+Manipulate your opponent into damaging themselves
+25
+25
+90
+Ultra Dodonpa
+The strongest version of the Dodonpa
+30
+30
+80
+Explosive Wave
+Use all your ki to form a giant explosion. Drains all energy, and deals a lot of damage if hit
+80
+100
+75
+4
+4
+3
