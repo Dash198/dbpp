@@ -4,12 +4,16 @@
 #include <vector>
 #include <fstream>
 #include <iostream>
+#include "SaveLoad.h"
 using namespace std;
 ifstream in("CharData.txt");
 string s;
+SaveLoad sl;
+int fcount = 0;
 Fighters::Fighters()
 {
-	fighter.resize(3);
+	fcount = sl.loadFighters() + 1;
+	fighter.resize(fcount);
 }
 void Fighters::initialize()
 {

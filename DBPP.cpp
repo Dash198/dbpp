@@ -18,9 +18,14 @@ int main()
     cout << "=========== DRAGON BALL ++ ===========\n\nWelcome! Do you want to play? (y/n)\n";
     cin >> choice;
     while (choice == 'y') {
-        cout << "\n\n====== CHOOSE YOUR FIGHTER ======\n\nEnter the corresponding number to make your choice\n";
-        for (int i = 0; i < ft.fighter.size(); i++) {
-            cout << i + 1 << ". " << ft.fighter[i].name << "\n";
+        cout << "\n\n====== CHOOSE YOUR FIGHTER ======\n\nEnter the corresponding number to make your choice\n\n";
+        for (int i = 0; i < ft.fighter.size(); i += 3) {
+            for (int j = i; j < i + 3; j++) {
+                if (j >= ft.fighter.size())
+                    break;
+                cout << j + 1 << ". " << ft.fighter[j].name << "     ";
+            }
+            cout << "\n";
         }
         cin >> userchoice;
         userchoice--;
@@ -28,9 +33,14 @@ int main()
             cout << "Enter a valid number!";
             continue;
         }
-        cout << "\n\n====== CHOOSE YOUR OPPONENT ======\n\nEnter the corresponding number to make your choice\n";
-        for (int i = 0; i < ft.fighter.size(); i++) {
-            cout << i + 1 << ". " << ft.fighter[i].name << "\n";
+        cout << "\n\n====== CHOOSE YOUR OPPONENT ======\n\nEnter the corresponding number to make your choice\n\n";
+        for (int i = 0; i < ft.fighter.size(); i += 3) {
+            for (int j = i; j < i + 3; j++) {
+                if (j >= ft.fighter.size())
+                    break;
+                cout << j + 1 << ". " << ft.fighter[j].name << "     ";
+            }
+            cout << "\n";
         }
         cin >> oppchoice;
         oppchoice--;
