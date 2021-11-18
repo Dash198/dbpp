@@ -5,3 +5,4 @@
 - v1.1 - Added two new features, i.e., energy and move descriptions
 - v1.2 - Added new mechanics: Attack, Defense, Accuracy, and Speed. All of these affect the damage dealt to the opponent
 - v1.3 - Added CharData.txt, which stores the info of all fighters
+- v1.4 - Added 7 new characters, and a new method to initialise the fighter[] vector, via SaveLoad.cpp
