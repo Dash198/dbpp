@@ -9,6 +9,6 @@ int SaveLoad::loadFighters()
     string s;
     while (getline(in, s))
         count++;
-    count /= 26;
+    count /= 30;
     return count;
 }

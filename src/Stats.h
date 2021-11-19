@@ -9,6 +9,9 @@ public:
 	string name;
 	vector<string> moves;
 	vector<double> moved;
+	vector<string> abilities;
+	vector<string> abdesc;
+	vector<double> effects;
 	int energy;
 	vector<int> energycost;
 	vector<string> movedesc;

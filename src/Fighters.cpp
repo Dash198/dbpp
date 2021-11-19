@@ -35,6 +35,12 @@ void Fighters::initialize()
 			getline(in, s);
 			fighter[i].accuracy[j] = stod(s);
 		}
+		for (int j = 0; j < 2; j++) {
+			getline(in, s);
+			fighter[i].abilities[j] = s;
+			getline(in, s);
+			fighter[i].abdesc[j] = s;
+		}
 		getline(in, s);
 		fighter[i].attack = stod(s);
 		getline(in, s);
