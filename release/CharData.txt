@@ -20,8 +20,12 @@ Goku's strongest move, an energy ball made up of the ki of all sources of life a
 40
 50
 75
-5
-2
+Kaioken
+Boost all your stats, at the cost of constant energy drain. If energy hits zero, you will lose the boost.
+Solar Flare
+Blind your opponent with a bright white light, thus decreasing their defense, speed and accuracy.
+4
+3
 5
 
 Vegeta
@@ -46,8 +50,12 @@ Fire a barrage of ki blasts at the opponent
 5
 15
 100
-2
-5
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Great Ape
+Transform into a giant ape, thus increasing your attack and defense, but decreasing your speed and accuracy
+6
+1
 3
 
 Gohan
@@ -72,8 +80,12 @@ A double Kamehameha, Gohan combines his Kamehameha with Goku's, resulting in dou
 40
 50
 75
-5
-3
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Ki Charge
+Charge your ki
+6
+4
 3
 
 Future Trunks
@@ -98,6 +110,10 @@ Damage your opponent heavily with multiple sword slashes, then finish them off w
 50
 40
 80
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Ki Charge
+Charge your ki
 4
 5
 3
@@ -124,6 +140,10 @@ Fire a Kamehameha with Goten at the same time
 15
 20
 90
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Ki Charge
+Charge your ki
 4
 3
 3
@@ -150,6 +170,10 @@ A simple ki blast
 5
 10
 100
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Ki Charge
+Charge your ki
 5
 3
 4
@@ -176,6 +200,10 @@ Fire an energy wave shot from a single hand
 20
 20
 90
+Regeneration
+Regenerate your health
+Fusion with Kami
+Fuse with Piccolo's other half, Kami, thus greatly increasing your stats. However, energy will drain, and the effects will wear off once energy is depleted
 5
 4
 4
@@ -202,6 +230,10 @@ Throw multiple Destructo Discs in quick succession
 45
 50
 75
+Solar Flare
+Blind your opponent with a bright white light, thus decreasing their defense, speed and accuracy.
+Zankzouken
+An ability to move so swiftly that an image of the user is left behind. Gives a boost to speed.
 1
 3
 4
@@ -228,6 +260,10 @@ A technique designed to seal demons into a jar. Deal a huge amount of damage, bu
 100
 100
 50
+Solar Flare
+Blind your opponent with a bright white light, thus decreasing their defense, speed and accuracy.
+Zankzouken
+An ability to move so swiftly that an image of the user is left behind. Gives a boost to speed.
 5
 4
 4
@@ -254,6 +290,40 @@ Use all your ki to form a giant explosion. Drains all energy, and deals a lot of
 80
 100
 75
+Telepathy
+Talk with your opponent mentally, thus distracting them, and decreasing their defence, speed and accuracy
+Ki Charge
+Charge your ki
 4
 4
 3
+
+Yamcha
+115
+Wolf Fang Fist
+Hit the opponent with a series of meelee attacks, with the ferocity of a wolf
+25
+20
+90
+Kamehameha
+A powerful ki wave fired with two hands after concentrating a large amount of Ki
+30
+25
+80
+Spirit Ball
+Control an energy sphere into hitting your opponent
+45
+30
+75
+Ki Blast Thrust
+Hit the opponent with a ki enhanced fist
+15
+15
+100
+Zankzouken
+An ability to move so swiftly that an image of the user is left behind. Gives a boost to speed.
+Ki Charge
+Charge your ki
+6
+5
+5
