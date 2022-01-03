@@ -1,23 +1,23 @@
 Goku
-170
+300
 Kamehameha
 A powerful ki beam fired with two hands after concentrating a large amount of ki.
-20
+40
 25
 90
 Kaioken Attack
 A powerful series of meelee attacks powered up by the Kaioken technique.
-25
+50
 30
 80
 Ki Blast
 A simple Ki blast
-5
+10
 15
 100
 Spirit Bomb
 Goku's strongest move, an energy ball made up of the ki of all sources of life around him
-40
+80
 50
 75
 Kaioken
@@ -29,25 +29,25 @@ Blind your opponent with a bright white light, thus decreasing their defense, sp
 5
 
 Vegeta
-150
+280
 Big Bang Attack
 A high-power energy ball, fired at great speed towards the opponent
-25
+50
 30
 80
 Final Flash
 Charge ki at both of your hands, combine them together to form a high-damage energy beam
-40
+80
 50
 75
 Galick Gun
 An energy beam similar to the Kamehameha
-10
+30
 20
 90
 Full Power Energy Blast Volley
 Fire a barrage of ki blasts at the opponent
-5
+20
 15
 100
 Zenkai
@@ -59,25 +59,25 @@ Transform into a giant ape, thus increasing your attack and defense, but decreas
 3
 
 Gohan
-200
+350
 Gekiretsu Madan
 Charge ki at both hands, and combine them to fire a barrage of energy waves at the opponent
-5
+20
 15
 100
 Masenko
 Fire a powerful beam of energy
-10
+30
 20
 90
 Kamehameha
 A powerful ki beam fired with two hands after concentrating a large amount of ki.
-20
+40
 25
 80
 Father-Son Kamehameha
 A double Kamehameha, Gohan combines his Kamehameha with Goku's, resulting in double the damage
-40
+80
 50
 75
 Zenkai
@@ -89,27 +89,27 @@ Charge your ki
 3
 
 Future Trunks
-175
+320
 Buster Canon
 Charge up an energy sphere in each hand, and combine them to fire an energy wave at the opponent
-20
+40
 25
 90
 Gekiretsu Madan
 Charge ki at both hands, and combine them to fire a barrage of energy waves at the opponent
-5
+20
 15
 100
 Burning Attack
 With a flurry of rapid arm movements, hit the opponent with a large energy sphere
-30
+60
 30
 80
 Shining Sword Attack
 Damage your opponent heavily with multiple sword slashes, then finish them off with a blast
-50
+90
 40
-80
+75
 Zenkai
 Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
 Ki Charge
@@ -119,25 +119,25 @@ Charge your ki
 3
 
 Kid Trunks
-100
+150
 Double Buster
 Fire an energy wave of charged ki at the opponent with both hands
-20
+40
 25
 80
 Big Tree Canon
 Charge ki spheres on both hands, and fire a large energy wave at the opponent
+50
 30
-30
-80
+75
 Energy Burst
 Fire a series of rapid energy blasts at your opponent
-10
+20
 15
 100
 Friend Kamehameha
 Fire a Kamehameha with Goten at the same time
-15
+30
 20
 90
 Zenkai
@@ -149,25 +149,25 @@ Charge your ki
 3
 
 Goten
-95
+140
 Kamekameha
 A weaker, less accurate verison of the Kamehameha
-25
+30
 25
 80
 Full Power Energy Blast Volley
 Fire a barrage of ki blasts at the opponent
-10
+20
 15
 90
 Bro's Kamehameha
 Goten and his brother Gohan perform a double Kamehameha
+70
 40
-40
-80
+75
 Ki Blast
 A simple ki blast
-5
+10
 10
 100
 Zenkai
@@ -179,7 +179,7 @@ Charge your ki
 4
 
 Piccolo
-205
+310
 Makankosappo
 Charge up ki, and fire two powerful spiralling ki waves at the opponent
 60
@@ -192,12 +192,12 @@ Fire multiple energy spheres towards the opponent, and finally command them to r
 80
 Masenko
 Fire a powerful beam of energy
-10
+20
 15
 100
 Explosive Demon Wave
 Fire an energy wave shot from a single hand
-20
+30
 20
 90
 Regeneration
@@ -209,25 +209,25 @@ Fuse with Piccolo's other half, Kami, thus greatly increasing your stats. Howeve
 4
 
 Krillin
-130
+250
 Destructo Disk
 A razor-sharp ki disc that can cut through almost anything
-30
+50
 30
 80
 Kamehameha
 A powerful ki beam fired with two hands after concentrating a large amount of ki.
-20
+40
 20
 100
 Scattering Bullet
 Fire a large blast into the air, which scatters into several smaller blasts advancing towards the opponent
-25
+30
 25
 90
 Chain Destructo Disc Barrage
 Throw multiple Destructo Discs in quick succession
-45
+75
 50
 75
 Solar Flare
@@ -239,10 +239,10 @@ An ability to move so swiftly that an image of the user is left behind. Gives a 
 4
 
 Tien Shinhan
-110
+230
 Tri-Beam
 Fire a large beam from your hands
-25
+50
 25
 90
 Dodonpa
@@ -252,12 +252,12 @@ Fire a beam from a single finger
 100
 Neo Tri-Beam
 A significantly stronger version of the Tri-Beam
-40
+80
 50
 80
 Mafuba
-A technique designed to seal demons into a jar. Deal a huge amount of damage, but drains all energy, and is a hit-or-miss attack
-100
+A technique designed to seal demons into a jar. Deal a huge amount of damage, but cots a lot of health, drains all energy, and is a hit-or-miss attack
+180
 100
 50
 Solar Flare
@@ -269,7 +269,7 @@ An ability to move so swiftly that an image of the user is left behind. Gives a 
 4
 
 Chiaotzu
-100
+190
 Dodonpa
 Fire a beam from a single finger
 20
@@ -277,17 +277,17 @@ Fire a beam from a single finger
 100
 Telekinesis
 Manipulate your opponent into damaging themselves
-25
+35
 25
 90
 Ultra Dodonpa
 The strongest version of the Dodonpa
-30
+40
 30
 80
-Explosive Wave
-Use all your ki to form a giant explosion. Drains all energy, and deals a lot of damage if hit
-80
+Self Destruct
+Use all your ki to form a giant explosion. Drains all energy, and deals a lot of damage if hit, but also damages the user
+130
 100
 75
 Telepathy
@@ -299,15 +299,15 @@ Charge your ki
 3
 
 Yamcha
-115
+220
 Wolf Fang Fist
 Hit the opponent with a series of meelee attacks, with the ferocity of a wolf
-25
+30
 20
 90
 Kamehameha
 A powerful ki wave fired with two hands after concentrating a large amount of Ki
-30
+40
 25
 80
 Spirit Ball
@@ -327,3 +327,213 @@ Charge your ki
 6
 5
 5
+
+Videl
+180
+Ki Blast
+A simple Ki Blast
+10
+15
+100
+Eagle Kick
+A series of melee attacks followed by a triple roundhouse kick.
+30
+35
+80
+Videl Rush
+A barrage of physical attacks causing a great deal of damage.
+40
+45
+75
+First Strike
+Deliver a charged roundhouse to the opponent
+15
+20
+90
+Ki Charge
+Charge your Ki
+N/A
+No ability is available. Selecting this will waste a turn
+6
+4
+3
+
+Bardock
+285
+Final Revenger
+A series of strong physical attacks that deals heavy damage
+40
+35
+80
+Full Power Energy Wave
+An energy sphere charged and fired in the form of an energy wave
+20
+20
+100
+Rebellion Spear
+Charge your opponent using your aura as a shield
+30
+30
+90
+Final Spirit Canon
+Fire a charged energy sphere at your opponent
+60
+45
+75
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Great Ape
+Transform into a giant ape, thus increasing your attack and defense, but decreasing your speed and accuracy
+5
+4
+4
+
+Gotenks
+375
+Big Tree Canon
+Charge ki spheres on both hands, and fire a large energy wave at the opponent
+70
+40
+80
+Super Ghost Kamikaze Attack
+Summon ghosts that explode when touched, and hit your opponent with them
+140
+80
+75
+Die Die Die Missile Barrage
+Fire a barrage of ki blasts
+30
+20
+100
+Splitting Headache
+Fire a beam that turns into a blade, and drop it over the opponent's head
+50
+30
+90
+Ki Charge
+Charge your Ki
+Galactic Donut
+Wrap a halo around your opponent, reducing their speed
+5
+4
+4
+
+Vegito
+400
+Spirit Canon
+Release a powerful sparkling golden energy blast
+60
+35
+90
+Final Kamehamha
+A powerful attack which combines the Final Flash and the Kamehameha
+160
+85
+75
+Spirit Sword
+Hit your opponent with a sword-like blast
+100
+55
+80
+Savage Counter
+Counter your opponent's attack into a volley of kicks
+40
+25
+100
+Kaioken
+Boost all your stats, at the cost of constant energy drain. If energy hits zero, you will lose the boost.
+Taunt
+Taunt the opponent. Decreases their defense and accuracy
+6
+4
+5
+
+Gogeta
+420
+Big Bang Kamehameha
+A combination of the Big Bang Attack and Kamehameha
+100
+55
+80
+Stardust Breaker
+Charge an energy sphere, crush it, and throw the scattered energy at the opponent, dealing a lot of damage
+150
+85
+75
+Ultimate Impact
+A barrage of physical attacks, dealing heavy damage
+60
+40
+90
+Big Bang Attack
+A high-power energy ball, fired at great speed towards the opponent
+40
+30
+100
+Kaioken
+Boost all your stats, at the cost of constant energy drain. If energy hits zero, you will lose the boost.
+Ki Charge
+Charge your ki
+5
+4
+5
+
+Raditz
+110
+Saturday Crush
+Fire a pink energy sphere at the opponent, inflicting a lot of damage
+35
+35
+80
+Behind You!
+Face away from your opponent, and kick them when they close in
+15
+10
+100
+Begone!
+Charge a blue and white sphere, and fire it in the form of an energy wave
+30
+30
+90
+Double Sunday
+Charge two spheres and fire it as two energy waves
+50
+55
+75
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Great Ape
+Transform into a giant ape, thus increasing your attack and defense, but decreasing your speed and accuracy
+4
+6
+4
+
+Nappa
+150
+Blazing Storm
+Unleash a huge explosion
+35
+35
+90
+Bomber DX
+Fire an energy sphere at the opponent, causing an enormous explosion on impact
+45
+45
+80
+Breakstorm
+Hit your opponent with a flurry of physical attacks with great speed, dealing a lot of damage
+30
+20
+100
+Break Canon
+Shoot a huge energy wave from your mouth, damaging your opponent severely
+60
+50
+75
+Zenkai
+Receive a heavy boost to your attack, defense, speed, and accuracy, at the cost of half of your health
+Great Ape
+Transform into a giant ape, thus increasing your attack and defense, but decreasing your speed and accuracy
+5
+2
+3
